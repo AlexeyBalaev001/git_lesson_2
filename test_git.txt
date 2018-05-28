@@ -1,5 +1,5 @@
 #I am attor!!
-Hello git
+Hello Git
 Hello world!!!!!!!!!
 Helo C++!
 # (c) 2018
